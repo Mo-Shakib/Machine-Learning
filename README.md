@@ -24,3 +24,4 @@ I hope that you find this repository helpful!
 
 I hope that you find this repository helpful! ✨
 
+[![Total time](https://wakatime.com/badge/user/8e02bfd3-85d8-4d9d-88df-fa983f91ff30/project/0982dec4-b40a-4e18-b0e5-69e9722f0754.svg)](https://wakatime.com/badge/user/8e02bfd3-85d8-4d9d-88df-fa983f91ff30/project/0982dec4-b40a-4e18-b0e5-69e9722f0754)
