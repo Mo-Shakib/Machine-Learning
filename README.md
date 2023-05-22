@@ -1,2 +1,2 @@
-# Machine-Learning
-This repo contains my machine learning codes.
+# Machine Learning
+This repository contains my machine learning learning codes. I will be posting my code for different machine learning projects, such as classification, regression, and clustering. I will also be posting code for different machine learning algorithms, such as decision trees, support vector machines, and neural networks. I hope that this repository will be a valuable resource for other machine learning learners.
